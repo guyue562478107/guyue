@@ -8,13 +8,8 @@
 [How to promote anticipated regret](https://www.hiroshima-u.ac.jp)
 
 - Anticipated Regret have two section (予期後悔が持つ2つの過程)
-<<<<<<< HEAD
     - recognize outcomes (過程1: 結果の認識)
     - anticipating regret (過程2: 後悔の予期)
-=======
-    - recognize outcomes (結果の認識)
-    - anticipating regret (後悔の予期)
->>>>>>> 7973847 (modify file)
 
 ### Theme 
     2つの過程のどちらが行動を起こしやすくしているのかが、
